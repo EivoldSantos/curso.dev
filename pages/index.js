@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Gsoft</h1>
+    return <h1>Eivold</h1>
 }
 
 export default Home;
